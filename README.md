@@ -42,15 +42,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/vijaykumarpatil960" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="vijaykumarpatil960"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/vkumar-patil" target="blank"
+   <a href="https://www.leetcode.com/vkumar-patil" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -98,22 +90,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
+    
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -130,14 +107,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
+  
 </p>
 
 <p>
