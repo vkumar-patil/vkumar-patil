@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijaykumar</h1>
-<h3 align="center">I learning full stack Web developer from India</h3>
+<h3 align="center"> Front-End Developer</h3>
 <img
   align="right"
   alt="coding"
@@ -13,7 +13,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Javascript & React** - 📫 How to reach me
+- 🌱 I’m currently learning **React** - 📫 How to reach me
 **vijaykumarpatil960@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
