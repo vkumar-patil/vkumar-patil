@@ -34,14 +34,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/vijaykumar-patil" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="vijaykumar-patil"
-      height="30"
-      width="40"
-  /></a>
+ 
    <a href="https://www.leetcode.com/vkumar-patil" target="blank"
     ><img
       align="center"
