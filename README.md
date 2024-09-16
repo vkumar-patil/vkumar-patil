@@ -4,7 +4,7 @@
   align="right"
   alt="coding"
   width="400px"
-  src="(https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp)"
+  src="https://www.bing.com/images/search?view=detailV2&ccid=PtKnf1vX&id=838730A9975BB7B9F744B0289827F53D9489E098&thid=OIP.PtKnf1vXhzdaL5BE7flGxAHaEK&mediaurl=https%3A%2F%2Fshowmecourses.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fweb-development.webp&exph=1080&expw=1920&q=background+image+web+developer&simid=608004564961739405&form=IRPRST&ck=EF0E05143306EAA5A995D8215BB025DE&selectedindex=10&itb=0&cw=1145&ch=535&ajaxhist=0&ajaxserp=0&vt=0&sim=11"
 />
 <p align="left">
   <img
