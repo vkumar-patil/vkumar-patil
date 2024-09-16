@@ -4,7 +4,7 @@
   align="right"
   alt="coding"
   width="400px"
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1rTBm1Cz2qYM9Dbsv0ouIv&ust=1719287151310000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi_qIOq84YDFQAAAAAdAAAAABAN"
+  src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1rTBm1Cz2qYM9Dbsv0ouIv&ust=1719287151310000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi_qIOq84YDFQAAAAAdAAAAABAN](https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp)"
 />
 <p align="left">
   <img
