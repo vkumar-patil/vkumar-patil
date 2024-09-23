@@ -4,7 +4,7 @@
   align="right"
   alt="coding"
   width="400px"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style={{ borderReduce:"50%"}}/>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=vkumar-patil&label=Profile%20views&color=0e75b6&style=flat"
