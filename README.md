@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **MySQL** - 📫 How to reach me
-**vijaykumarpatil960@gmail.com**
+**vijaykumarpatil960@gmail.com**&**7219066757**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
